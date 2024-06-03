@@ -14,7 +14,13 @@
 
 <br/>
 
+![Multi-PDF Chatbot Overview](img/MultiPDF%20Chatbot.png)
+
+<br/>
+
 > **"Upload PDFs. Ask anything. Get accurate, context-aware answers — 100% offline."**
+>
+> **Multi-PDF Chatbot = an offline document QA project where you upload multiple PDFs and get accurate answers through a local RAG pipeline**
 
 </div>
 
